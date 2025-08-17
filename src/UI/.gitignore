@@ -1,0 +1,13 @@
+# Ignore secrets
+agentic-ai-466415-*.json
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual envs
+.venv/
+
+# Local configs
+config/

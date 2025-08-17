@@ -1,0 +1,17 @@
+# .streamlit/config.toml
+
+[theme]
+# The main interactive accent color (their brand teal)
+primaryColor = "#00b6a1"
+
+# The main page background
+backgroundColor = "#081411"
+
+# The background for cards, containers, and the chat input
+secondaryBackgroundColor = "#161B22"
+
+# The color for all text
+textColor = "#FFFFFF"
+
+# The default font
+font = "sans serif"
